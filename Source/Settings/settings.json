@@ -1,0 +1,37 @@
+{
+  "botToken": "Token",
+  "botOwner": "",
+  "botPrefix": ".",
+  "botVoiceChannel": "",
+  "botActivityName": "V13 Buton Register",
+  "botActivityType": "PLAYING", 
+  "botStatus": "dnd",// idle = Boşta / dnd = Rahatsız Etmeyin / online = Çevrimiçi / invisible = Görünmez /
+
+  "mongoConnectionLink": "mongodb",
+
+  "welcomeChannel": "",
+  "rulesChannel": "",
+  "Suspicious": "",
+  "Unregistered": "",
+
+
+  "FamilyRole": "",
+  "Tag": "",
+  "Untag": "",
+
+  "RegisterStaff": "",
+  "ManRole": "",
+  "WomanRole": "",
+  "BoosterRole": "BOOSTERROLU",
+  "loversRol": "",
+  "muzisyenRol": "",
+  "vokalRol": "",
+  "terapistRol": "",
+  "sorunCözücüRol": "",
+  "vipRol": "",
+ "streamerrol": "",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
